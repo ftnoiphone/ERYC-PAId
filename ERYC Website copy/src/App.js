@@ -263,7 +263,7 @@ function App() {
                  color: "var(--accent-text)",
               }}
             >
-                 Connect to the {CONFIG.NETWORK.NAME} network
+                 Revealed once fully sold out! 
                  </s.TextDescription>
                  <s.SpacerSmall />
                  <StyledButton
