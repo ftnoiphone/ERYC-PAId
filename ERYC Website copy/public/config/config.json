@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf29a10AEA6D2c29FddA6b4Ec767FD8aa95F8516c",
+  "SCAN_LINK": "https://etherscan.io/address/0xf29a10aea6d2c29fdda6b4ec767fd8aa95f8516c",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "End Racist Yacht Club",
+  "SYMBOL": "ERYC",
+  "MAX_SUPPLY": 6969,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 170000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/endracistyachtclub",
+  "SHOW_BACKGROUND": true
+}
